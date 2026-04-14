@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+echo "Laravel belum terpasang penuh di environment ini. Jalankan composer install saat akses packagist tersedia.\n";
